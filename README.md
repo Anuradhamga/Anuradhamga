@@ -42,6 +42,13 @@
 - **NeuroCare** – Exploring technology-based cognitive health solutions.
 - **Fit Apex** – Job search and career development platform.
 
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuradhamga&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuradhamga&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
 ### 🌐 Connect With Me
 
 <p align="left">
