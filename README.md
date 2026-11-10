@@ -48,7 +48,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Anuradhamga&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuradhamga&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+### 🔥 Contribution Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anuradhamga&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 ### 🌐 Connect With Me
 
 <p align="left">
