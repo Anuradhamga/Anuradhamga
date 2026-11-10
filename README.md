@@ -53,6 +53,16 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anuradhamga&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anuradhamga&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
+</p>
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuradhamga&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+</p>
 ### 🌐 Connect With Me
 
 <p align="left">
