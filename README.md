@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 About Me
+👨‍💻 About Me
 
 - 🎓 Undergraduate in Health Information and Communication Technology (HICT)
 - 💻 Interested in Software Development and Web Technologies
@@ -21,13 +21,13 @@
 - 🌱 Continuously learning and developing practical projects
 - 🎯 Goal: Become a skilled technology professional and researcher
 
-### 🛠️ Technologies & Tools
+🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,androidstudio,git,github,vscode,figma" />
 </p>
 
-### 🚀 Areas of Interest
+🚀 Areas of Interest
 
 - Software Engineering
 - Web & Mobile Application Development
@@ -36,34 +36,35 @@
 - Internet of Things (IoT)
 - Digital Health Innovation
 
-### 📌 Featured Projects
+📌 Featured Projects
 
 - **UIDesignLab** – Android Application Development using Java and XML.
 - **NeuroCare** – Exploring technology-based cognitive health solutions.
 - **Fit Apex** – Job search and career development platform.
 
-### 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anuradhamga&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuradhamga&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
-### 🔥 Contribution Streak
+🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anuradhamga&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
-### 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anuradhamga&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
 </p>
-### 📈 Contribution Activity
+📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuradhamga&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 </p>
-### 🌐 Connect With Me
+
+🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/akitha-anuradha-675149338" target="_blank">
